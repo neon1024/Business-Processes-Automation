@@ -12,6 +12,8 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "guessed&Sequence_1",
+        "g&Sequence_1",
         "random_number&Sequence_1",
         "nr&Sequence_1"
       ],
