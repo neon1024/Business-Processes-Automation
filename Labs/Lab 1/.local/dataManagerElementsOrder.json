@@ -12,8 +12,33 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "nr&Sequence_1"
+        "Product_Quantity&Sequence_1",
+        "Product_Price&Sequence_1",
+        "Products&Sequence_1",
+        "tokens&Sequence_1",
+        "user_input&Sequence_1",
+        "quantity&Sequence_1",
+        "price&Sequence_1",
+        "name&Sequence_1",
+        "_out_InterruptibleWhile_1__CurrentIndex&Sequence_1",
+        "menu_option&Sequence_1"
       ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Sequence Test.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Flowchart Test.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
