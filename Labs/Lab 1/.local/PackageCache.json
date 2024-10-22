@@ -6,28 +6,32 @@
         "Version": "2.22.3"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\closedxml\\0.95.4\\lib/netstandard2.0/ClosedXML.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\closedxml\\0.100.3\\lib/netstandard2.0/ClosedXML.dll",
         "C:\\Users\\rober\\.nuget\\packages\\csvhelper\\16.0.0\\lib/netstandard2.1/CsvHelper.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\documentformat.openxml\\2.12.1\\lib/netstandard2.0/DocumentFormat.OpenXml.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\excelnumberformat\\1.0.10\\lib/netstandard2.0/ExcelNumberFormat.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\documentformat.openxml\\2.16.0\\lib/netstandard2.0/DocumentFormat.OpenXml.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\excelnumberformat\\1.1.0\\lib/netstandard2.0/ExcelNumberFormat.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\irony.netcore\\1.0.11\\lib/netstandard1.6/Irony.dll",
         "C:\\Users\\rober\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\16.7.30328.74\\lib/netstandard2.0/Microsoft.VisualStudio.OLE.Interop.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib/netstandard2.0/Newtonsoft.Json.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib/net6.0/Newtonsoft.Json.dll",
         "C:\\Users\\rober\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.OOXML.dll",
         "C:\\Users\\rober\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.OpenXml4Net.dll",
         "C:\\Users\\rober\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.dll",
         "C:\\Users\\rober\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\lib/netstandard2.0/BouncyCastle.Crypto.dll",
         "C:\\Users\\rober\\.nuget\\packages\\sharpziplib\\1.3.3\\lib/netstandard2.1/ICSharpCode.SharpZipLib.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\sixlabors.fonts\\1.0.0-beta18\\lib/netcoreapp3.1/SixLabors.Fonts.dll",
         "C:\\Users\\rober\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.excel.activities\\2.22.3\\lib/net6.0-windows7.0/Microsoft.Office.Interop.Excel.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.excel.activities\\2.22.3\\lib/net6.0-windows7.0/Microsoft.Vbe.Interop.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.excel.activities\\2.22.3\\lib/net6.0-windows7.0/Office.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.excel.activities\\2.22.3\\lib/net6.0-windows7.0/UiPath.Excel.Activities.Design.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\uipath.excel.activities\\2.22.3\\lib/net6.0-windows7.0/UiPath.Excel.Activities.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.excel.activities\\2.22.3\\lib/net6.0-windows7.0/UiPath.Excel.Activities.Package.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.excel.activities\\2.22.3\\lib/net6.0-windows7.0/UiPath.Excel.Activities.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.excel.activities\\2.22.3\\lib/net6.0-windows7.0/UiPath.Excel.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\uipath.platform\\23.10.0\\lib/net6.0-windows7.0/UiPath.Platform.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\uipath.telemetry.client\\1.6.69\\lib/netstandard2.0/TelemetryClient.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.opentelemetry.contracts\\2.1.3\\lib/netstandard2.0/UiPath.OpenTelemetry.Contracts.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.platform\\24.10.2\\lib/net6.0-windows7.0/UiPath.Platform.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.telemetry.client\\2.1.3\\lib/netstandard2.0/TelemetryClient.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\xlparser\\1.5.2\\lib/netstandard1.6/XLParser.dll"
       ],
       "Path": "C:\\Users\\rober\\.nuget\\packages\\uipath.excel.activities\\2.22.3"
     },
@@ -39,33 +43,34 @@
       "Assemblies": [
         "C:\\Users\\rober\\.nuget\\packages\\azure.core\\1.18.0\\lib/net5.0/Azure.Core.dll",
         "C:\\Users\\rober\\.nuget\\packages\\google.apis\\1.55.0\\lib/netstandard2.0/Google.Apis.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib/netstandard2.0/Google.Apis.Auth.dll",
         "C:\\Users\\rober\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib/netstandard2.0/Google.Apis.Auth.PlatformServices.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib/netstandard2.0/Google.Apis.Auth.dll",
         "C:\\Users\\rober\\.nuget\\packages\\google.apis.calendar.v3\\1.55.0.2554\\lib/netstandard2.0/Google.Apis.Calendar.v3.dll",
         "C:\\Users\\rober\\.nuget\\packages\\google.apis.core\\1.55.0\\lib/netstandard2.0/Google.Apis.Core.dll",
         "C:\\Users\\rober\\.nuget\\packages\\google.apis.gmail.v1\\1.55.0.2510\\lib/netstandard2.0/Google.Apis.Gmail.v1.dll",
         "C:\\Users\\rober\\.nuget\\packages\\google.apis.peopleservice.v1\\1.55.0.2567\\lib/netstandard2.0/Google.Apis.PeopleService.v1.dll",
         "C:\\Users\\rober\\.nuget\\packages\\htmlagilitypack\\1.11.38\\lib/netstandard2.0/HtmlAgilityPack.dll",
         "C:\\Users\\rober\\.nuget\\packages\\mailkit\\3.1.1\\lib/net6.0/MailKit.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll",
         "C:\\Users\\rober\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\lib/netstandard2.0/Microsoft.Extensions.FileSystemGlobbing.dll",
         "C:\\Users\\rober\\.nuget\\packages\\microsoft.graph\\4.11.0\\lib/netstandard2.0/Microsoft.Graph.dll",
         "C:\\Users\\rober\\.nuget\\packages\\microsoft.graph.core\\2.0.5\\lib/netstandard2.0/Microsoft.Graph.Core.dll",
         "C:\\Users\\rober\\.nuget\\packages\\microsoft.identity.client\\4.35.1\\lib/netcoreapp2.1/Microsoft.Identity.Client.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.12.2\\lib/netstandard2.0/Microsoft.IdentityModel.JsonWebTokens.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.2\\lib/netstandard2.0/Microsoft.IdentityModel.Logging.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.12.2\\lib/netstandard2.0/Microsoft.IdentityModel.Protocols.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.12.2\\lib/netstandard2.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.2\\lib/netstandard2.0/Microsoft.IdentityModel.Tokens.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.34.0\\lib/net6.0/Microsoft.IdentityModel.Abstractions.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.34.0\\lib/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.logging\\6.34.0\\lib/net6.0/Microsoft.IdentityModel.Logging.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.34.0\\lib/net6.0/Microsoft.IdentityModel.Protocols.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.34.0\\lib/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.34.0\\lib/net6.0/Microsoft.IdentityModel.Tokens.dll",
         "C:\\Users\\rober\\.nuget\\packages\\mimekit\\3.1.1\\lib/net6.0/MimeKit.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib/netstandard2.0/Newtonsoft.Json.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib/net6.0/Newtonsoft.Json.dll",
         "C:\\Users\\rober\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\lib/netstandard2.0/BouncyCastle.Crypto.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.12.2\\lib/netstandard2.0/System.IdentityModel.Tokens.Jwt.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.34.0\\lib/net6.0/System.IdentityModel.Tokens.Jwt.dll",
         "C:\\Users\\rober\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
         "C:\\Users\\rober\\.nuget\\packages\\system.memory.data\\1.0.2\\lib/netstandard2.0/System.Memory.Data.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\system.runtime.caching\\5.0.0\\runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\system.runtime.caching\\6.0.0\\runtimes/win/lib/net6.0/System.Runtime.Caching.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.6\\lib/net5.0-windows7.0/UiPath.Activities.RuntimeGovernance.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\uipath.connectionclient\\1.4.6\\lib/net5.0/ConnectionClient.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.connectionclient\\2.0.9\\lib/net6.0/ConnectionClient.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.mail.activities\\1.21.1\\lib/net6.0-windows7.0/Interop.Domino.UiPath.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.mail.activities\\1.21.1\\lib/net6.0-windows7.0/Microsoft.Exchange.WebServices.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.mail.activities\\1.21.1\\lib/net6.0-windows7.0/Microsoft.Office.Interop.Outlook.dll",
@@ -75,8 +80,9 @@
         "C:\\Users\\rober\\.nuget\\packages\\uipath.mail.activities\\1.21.1\\lib/net6.0-windows7.0/UiPath.Mail.Activities.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.mail.activities\\1.21.1\\lib/net6.0-windows7.0/UiPath.Mail.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.mail.activities\\1.21.1\\lib/net6.0-windows7.0/UiPath.MainSessionServer.Shared.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\uipath.platform\\23.10.0\\lib/net6.0-windows7.0/UiPath.Platform.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\uipath.telemetry.client\\1.6.69\\lib/netstandard2.0/TelemetryClient.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.opentelemetry.contracts\\2.1.3\\lib/netstandard2.0/UiPath.OpenTelemetry.Contracts.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.platform\\24.10.2\\lib/net6.0-windows7.0/UiPath.Platform.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.telemetry.client\\2.1.3\\lib/netstandard2.0/TelemetryClient.dll"
       ],
       "Path": "C:\\Users\\rober\\.nuget\\packages\\uipath.mail.activities\\1.21.1"
     },
@@ -111,8 +117,8 @@
         "C:\\Users\\rober\\.nuget\\packages\\microsoft.extensions.options\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Options.dll",
         "C:\\Users\\rober\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll",
         "C:\\Users\\rober\\.nuget\\packages\\microsoft.management.infrastructure.cimcmdlets\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.Management.Infrastructure.CimCmdlets.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes/win10-x64/lib/netstandard1.6/Microsoft.Management.Infrastructure.dll",
         "C:\\Users\\rober\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes/win10-x64/lib/netstandard1.6/Microsoft.Management.Infrastructure.Native.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes/win10-x64/lib/netstandard1.6/Microsoft.Management.Infrastructure.dll",
         "C:\\Users\\rober\\.nuget\\packages\\microsoft.powershell.commands.diagnostics\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.Commands.Diagnostics.dll",
         "C:\\Users\\rober\\.nuget\\packages\\microsoft.powershell.commands.management\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.Commands.Management.dll",
         "C:\\Users\\rober\\.nuget\\packages\\microsoft.powershell.commands.utility\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.PowerShell.Commands.Utility.dll",
@@ -125,10 +131,10 @@
         "C:\\Users\\rober\\.nuget\\packages\\microsoft.wsman.management\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.WSMan.Management.dll",
         "C:\\Users\\rober\\.nuget\\packages\\microsoft.wsman.runtime\\7.1.0\\runtimes/win/lib/net5.0/Microsoft.WSMan.Runtime.dll",
         "C:\\Users\\rober\\.nuget\\packages\\namotion.reflection\\1.0.14\\lib/netstandard2.0/Namotion.Reflection.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib/netstandard2.0/Newtonsoft.Json.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib/net6.0/Newtonsoft.Json.dll",
         "C:\\Users\\rober\\.nuget\\packages\\njsonschema\\10.2.2\\lib/netstandard2.0/NJsonSchema.dll",
         "C:\\Users\\rober\\.nuget\\packages\\sharpziplib\\1.3.3\\lib/netstandard2.1/ICSharpCode.SharpZipLib.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\system.activities.viewmodels\\1.0.0-20230906.1\\lib/net6.0-windows7.0/System.Activities.ViewModels.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\system.activities.viewmodels\\1.0.0-20240418.6\\lib/net6.0-windows7.0/System.Activities.ViewModels.dll",
         "C:\\Users\\rober\\.nuget\\packages\\system.componentmodel.composition\\5.0.0\\lib/netcoreapp2.0/System.ComponentModel.Composition.dll",
         "C:\\Users\\rober\\.nuget\\packages\\system.componentmodel.composition.registration\\5.0.0\\lib/netstandard2.1/System.ComponentModel.Composition.Registration.dll",
         "C:\\Users\\rober\\.nuget\\packages\\system.data.odbc\\5.0.0\\runtimes/win/lib/netcoreapp2.0/System.Data.Odbc.dll",
@@ -144,24 +150,25 @@
         "C:\\Users\\rober\\.nuget\\packages\\system.net.http.winhttphandler\\5.0.0\\runtimes/win/lib/netstandard2.0/System.Net.Http.WinHttpHandler.dll",
         "C:\\Users\\rober\\.nuget\\packages\\system.private.servicemodel\\4.7.0\\lib/netstandard2.0/System.Private.ServiceModel.dll",
         "C:\\Users\\rober\\.nuget\\packages\\system.reflection.context\\5.0.0\\lib/netstandard2.1/System.Reflection.Context.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\system.runtime.caching\\5.0.0\\runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\system.runtime.caching\\6.0.0\\runtimes/win/lib/net6.0/System.Runtime.Caching.dll",
         "C:\\Users\\rober\\.nuget\\packages\\system.servicemodel.duplex\\4.7.0\\lib/netstandard2.0/System.ServiceModel.Duplex.dll",
         "C:\\Users\\rober\\.nuget\\packages\\system.servicemodel.http\\4.7.0\\lib/netstandard2.0/System.ServiceModel.Http.dll",
         "C:\\Users\\rober\\.nuget\\packages\\system.servicemodel.nettcp\\4.7.0\\lib/netstandard2.0/System.ServiceModel.NetTcp.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib/netcoreapp2.1/System.ServiceModel.dll",
         "C:\\Users\\rober\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib/netcoreapp2.1/System.ServiceModel.Primitives.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib/netcoreapp2.1/System.ServiceModel.dll",
         "C:\\Users\\rober\\.nuget\\packages\\system.servicemodel.security\\4.7.0\\lib/netstandard2.0/System.ServiceModel.Security.dll",
         "C:\\Users\\rober\\.nuget\\packages\\system.servicemodel.syndication\\5.0.0\\lib/netstandard2.0/System.ServiceModel.Syndication.dll",
         "C:\\Users\\rober\\.nuget\\packages\\system.serviceprocess.servicecontroller\\5.0.0\\runtimes/win/lib/netstandard2.0/System.ServiceProcess.ServiceController.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\uipath.codedworkflows\\23.10.4\\lib/net6.0-windows7.0/UiPath.CodedWorkflows.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\uipath.platform\\23.10.0\\lib/net6.0-windows7.0/UiPath.Platform.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.codedworkflows\\24.10.0\\lib/net6.0-windows7.0/UiPath.CodedWorkflows.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.opentelemetry.contracts\\2.1.3\\lib/netstandard2.0/UiPath.OpenTelemetry.Contracts.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.platform\\24.10.2\\lib/net6.0-windows7.0/UiPath.Platform.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.system.activities\\23.10.5\\lib/net6.0-windows7.0/UiPath.System.Activities.Design.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.system.activities\\23.10.5\\lib/net6.0-windows7.0/UiPath.System.Activities.ViewModels.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.system.activities.runtime\\23.10.5\\lib/net6.0-windows7.0/UiPath.System.Activities.Package.Runtime.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.system.activities.runtime.windows\\23.10.5\\lib/net6.0-windows7.0/UiPath.OrchestratorClient.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.system.activities.runtime.windows\\23.10.5\\lib/net6.0-windows7.0/UiPath.System.Activities.Api.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.system.activities.runtime.windows\\23.10.5\\lib/net6.0-windows7.0/UiPath.System.Activities.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\uipath.telemetry.client\\1.6.69\\lib/netstandard2.0/TelemetryClient.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.telemetry.client\\2.1.3\\lib/netstandard2.0/TelemetryClient.dll"
       ],
       "Path": "C:\\Users\\rober\\.nuget\\packages\\uipath.system.activities\\23.10.5"
     },
@@ -175,18 +182,19 @@
         "C:\\Users\\rober\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\lib/net6.0/Microsoft.Extensions.DependencyInjection.dll",
         "C:\\Users\\rober\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
         "C:\\Users\\rober\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.24\\lib/netstandard2.0/Microsoft.Rest.ClientRuntime.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib/netstandard2.0/Newtonsoft.Json.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\system.activities.viewmodels\\1.0.0-20230906.1\\lib/net6.0-windows7.0/System.Activities.ViewModels.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib/net6.0/Newtonsoft.Json.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\system.activities.viewmodels\\1.0.0-20240418.6\\lib/net6.0-windows7.0/System.Activities.ViewModels.dll",
         "C:\\Users\\rober\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\system.runtime.caching\\5.0.0\\runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\uipath.codedworkflows\\23.10.4\\lib/net6.0-windows7.0/UiPath.CodedWorkflows.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\uipath.platform\\23.10.0\\lib/net6.0-windows7.0/UiPath.Platform.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\uipath.telemetry.client\\1.6.69\\lib/netstandard2.0/TelemetryClient.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\system.runtime.caching\\6.0.0\\runtimes/win/lib/net6.0/System.Runtime.Caching.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.codedworkflows\\24.10.0\\lib/net6.0-windows7.0/UiPath.CodedWorkflows.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.opentelemetry.contracts\\2.1.3\\lib/netstandard2.0/UiPath.OpenTelemetry.Contracts.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.platform\\24.10.2\\lib/net6.0-windows7.0/UiPath.Platform.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.telemetry.client\\2.1.3\\lib/netstandard2.0/TelemetryClient.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.testing.activities\\23.10.1\\lib/net6.0-windows7.0/UiPath.Testing.Activities.Api.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.testing.activities\\23.10.1\\lib/net6.0-windows7.0/UiPath.Testing.Activities.Design.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.testing.activities\\23.10.1\\lib/net6.0-windows7.0/UiPath.Testing.Activities.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\uipath.testing.activities\\23.10.1\\lib/net6.0-windows7.0/UiPath.Testing.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\uipath.testing.activities\\23.10.1\\lib/net6.0-windows7.0/UiPath.Testing.RulesLibrary.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.testing.activities\\23.10.1\\lib/net6.0-windows7.0/UiPath.Testing.RulesLibrary.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.testing.activities\\23.10.1\\lib/net6.0-windows7.0/UiPath.Testing.dll"
       ],
       "Path": "C:\\Users\\rober\\.nuget\\packages\\uipath.testing.activities\\23.10.1"
     },
@@ -201,20 +209,21 @@
         "C:\\Users\\rober\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
         "C:\\Users\\rober\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.24\\lib/netstandard2.0/Microsoft.Rest.ClientRuntime.dll",
         "C:\\Users\\rober\\.nuget\\packages\\microsoft.rest.clientruntime.azure\\3.3.18\\lib/netstandard1.4/Microsoft.Rest.ClientRuntime.Azure.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib/netstandard2.0/Newtonsoft.Json.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib/net6.0/Newtonsoft.Json.dll",
         "C:\\Users\\rober\\.nuget\\packages\\nlog\\4.5.11\\lib/netstandard2.0/NLog.dll",
         "C:\\Users\\rober\\.nuget\\packages\\polly\\7.1.0\\lib/netstandard2.0/Polly.dll",
         "C:\\Users\\rober\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath\\23.10.71.64399\\lib/net6.0-windows7.0/UiPath.Interop.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.6\\lib/net5.0-windows7.0/UiPath.Activities.RuntimeGovernance.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\uipath.codedworkflows\\23.10.4\\lib/net6.0-windows7.0/UiPath.CodedWorkflows.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.codedworkflows\\24.10.0\\lib/net6.0-windows7.0/UiPath.CodedWorkflows.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.imageprocessing\\23.4.0\\lib/net6.0-windows7.0/UiPath.ImageProcessingInterop.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.ocr.activities\\3.17.1\\lib/net6.0-windows7.0/UiPath.OCR.Activities.Design.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.ocr.activities\\3.17.1\\lib/net6.0-windows7.0/UiPath.OCR.Activities.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.ocr.activities\\3.17.1\\lib/net6.0-windows7.0/UiPath.OCR.Core.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.ocr.contracts\\2.16.0\\lib/net6.0-windows7.0/UiPath.OCR.Contracts.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\uipath.platform\\23.10.0\\lib/net6.0-windows7.0/UiPath.Platform.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\uipath.telemetry.client\\1.6.69\\lib/netstandard2.0/TelemetryClient.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.opentelemetry.contracts\\2.1.3\\lib/netstandard2.0/UiPath.OpenTelemetry.Contracts.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.platform\\24.10.2\\lib/net6.0-windows7.0/UiPath.Platform.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.telemetry.client\\2.1.3\\lib/netstandard2.0/TelemetryClient.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.uiautomation.activities\\23.10.7\\lib/net6.0-windows7.0/UiPath.CV.Activities.Design.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.uiautomation.activities\\23.10.7\\lib/net6.0-windows7.0/UiPath.Semantic.Activities.Design.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.uiautomation.activities\\23.10.7\\lib/net6.0-windows7.0/UiPath.UIAutomation.Activities.Design.dll",
@@ -224,19 +233,86 @@
         "C:\\Users\\rober\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.7\\lib/net6.0-windows7.0/UiPath.CV.Activities.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.7\\lib/net6.0-windows7.0/UiPath.CV.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.7\\lib/net6.0-windows7.0/UiPath.Semantic.Activities.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.7\\lib/net6.0-windows7.0/UiPath.UiAutomation.Activities.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.7\\lib/net6.0-windows7.0/UiPath.UIAutomationCore.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.7\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.API.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.7\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.Activities.Contracts.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.7\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.Activities.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.7\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.API.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.7\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.7\\lib/net6.0-windows7.0/UiPath.UiAutomation.Activities.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.vision\\3.11.1\\lib/net6.0-windows7.0/UiPath.Vision.AzureComputerVision.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.vision\\3.11.1\\lib/net6.0-windows7.0/UiPath.Vision.Core.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\uipath.vision\\3.11.1\\lib/net6.0-windows7.0/UiPath.Vision.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.vision\\3.11.1\\lib/net6.0-windows7.0/UiPath.Vision.GoogleCloud.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\uipath.vision\\3.11.1\\lib/net6.0-windows7.0/UiPath.Vision.Tesseract.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.vision\\3.11.1\\lib/net6.0-windows7.0/UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.vision\\3.11.1\\lib/net6.0-windows7.0/UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\rober\\.nuget\\packages\\uipath.uiautomation.activities\\23.10.7"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.WebAPI.Activities",
+        "Version": "1.21.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\rober\\.nuget\\packages\\avalonedit\\6.1.3.50\\lib/net6.0-windows7.0/ICSharpCode.AvalonEdit.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib/net6.0/Newtonsoft.Json.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\restsharp\\106.15.0\\lib/netstandard2.0/RestSharp.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.opentelemetry.contracts\\2.1.3\\lib/netstandard2.0/UiPath.OpenTelemetry.Contracts.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.platform\\24.10.2\\lib/net6.0-windows7.0/UiPath.Platform.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.telemetry.client\\2.1.3\\lib/netstandard2.0/TelemetryClient.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.webapi.activities\\1.21.1\\lib/net6.0-windows7.0/UiPath.Web.Activities.Design.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.webapi.activities\\1.21.1\\lib/net6.0-windows7.0/UiPath.Web.Activities.RulesLibrary.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.webapi.activities\\1.21.1\\lib/net6.0-windows7.0/UiPath.Web.Activities.ViewModels.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.webapi.activities.runtime\\1.21.1\\lib/net6.0-windows7.0/UiPath.Web.Activities.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.webapi.activities.runtime\\1.21.1\\lib/net6.0-windows7.0/UiPath.Web.dll"
+      ],
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\uipath.webapi.activities\\1.21.1"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.MicrosoftOffice365.Activities",
+        "Version": "2.7.22"
+      },
+      "Assemblies": [
+        "C:\\Users\\rober\\.nuget\\packages\\azure.core\\1.18.0\\lib/net5.0/Azure.Core.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\closedxml\\0.100.3\\lib/netstandard2.0/ClosedXML.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\documentformat.openxml\\2.16.0\\lib/netstandard2.0/DocumentFormat.OpenXml.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\excelnumberformat\\1.1.0\\lib/netstandard2.0/ExcelNumberFormat.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\irony.netcore\\1.0.11\\lib/netstandard1.6/Irony.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\lib/net6.0/Microsoft.Extensions.DependencyInjection.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\microsoft.graph\\4.11.0\\lib/netstandard2.0/Microsoft.Graph.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\microsoft.graph.core\\2.0.5\\lib/netstandard2.0/Microsoft.Graph.Core.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\microsoft.identity.client\\4.35.1\\lib/netcoreapp2.1/Microsoft.Identity.Client.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.34.0\\lib/net6.0/Microsoft.IdentityModel.Abstractions.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.34.0\\lib/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.logging\\6.34.0\\lib/net6.0/Microsoft.IdentityModel.Logging.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.34.0\\lib/net6.0/Microsoft.IdentityModel.Protocols.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.34.0\\lib/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.34.0\\lib/net6.0/Microsoft.IdentityModel.Tokens.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib/net6.0/Newtonsoft.Json.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\sixlabors.fonts\\1.0.0-beta18\\lib/netcoreapp3.1/SixLabors.Fonts.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\system.activities.viewmodels\\1.0.0-20240418.6\\lib/net6.0-windows7.0/System.Activities.ViewModels.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.34.0\\lib/net6.0/System.IdentityModel.Tokens.Jwt.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\system.linq.async\\6.0.1\\lib/net6.0/System.Linq.Async.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\system.linq.async.queryable\\6.0.1\\lib/net6.0/System.Linq.Async.Queryable.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\system.memory.data\\1.0.2\\lib/netstandard2.0/System.Memory.Data.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\system.runtime.caching\\6.0.0\\runtimes/win/lib/net6.0/System.Runtime.Caching.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.6\\lib/net5.0-windows7.0/UiPath.Activities.RuntimeGovernance.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.codedworkflows\\24.10.0\\lib/net6.0-windows7.0/UiPath.CodedWorkflows.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.connectionclient\\2.0.9\\lib/net6.0/ConnectionClient.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.microsoftoffice365.activities\\2.7.22\\lib/net6.0-windows7.0/UiPath.MicrosoftOffice365.Activities.Api.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.microsoftoffice365.activities\\2.7.22\\lib/net6.0-windows7.0/UiPath.MicrosoftOffice365.Activities.Design.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.microsoftoffice365.activities\\2.7.22\\lib/net6.0-windows7.0/UiPath.MicrosoftOffice365.Activities.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.microsoftoffice365.activities\\2.7.22\\lib/net6.0-windows7.0/UiPath.MicrosoftOffice365.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.opentelemetry.contracts\\2.1.3\\lib/netstandard2.0/UiPath.OpenTelemetry.Contracts.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.platform\\24.10.2\\lib/net6.0-windows7.0/UiPath.Platform.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.telemetry.client\\2.1.3\\lib/netstandard2.0/TelemetryClient.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\xlparser\\1.5.2\\lib/netstandard1.6/XLParser.dll"
+      ],
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\uipath.microsoftoffice365.activities\\2.7.22"
     }
   ],
   "Conflicts": [],
@@ -254,6 +330,11 @@
           "Item2": "[4.3.0, )"
         }
       ]
+    },
+    "AvalonEdit": {
+      "Id": "AvalonEdit",
+      "Version": "6.1.3.50",
+      "Dependencies": []
     },
     "Azure.Core": {
       "Id": "Azure.Core",
@@ -299,23 +380,39 @@
     },
     "ClosedXML": {
       "Id": "ClosedXML",
-      "Version": "0.95.4",
+      "Version": "0.100.3",
       "Dependencies": [
         {
           "Item1": "DocumentFormat.OpenXml",
-          "Item2": "[2.7.2, )"
+          "Item2": "[2.16.0, )"
         },
         {
           "Item1": "ExcelNumberFormat",
-          "Item2": "[1.0.10, )"
+          "Item2": "[1.1.0, )"
         },
         {
           "Item1": "Microsoft.CSharp",
           "Item2": "[4.7.0, )"
         },
         {
-          "Item1": "System.Drawing.Common",
-          "Item2": "[4.5.0, )"
+          "Item1": "SixLabors.Fonts",
+          "Item2": "[1.0.0-beta18, )"
+        },
+        {
+          "Item1": "System.Buffers",
+          "Item2": "[4.5.1, )"
+        },
+        {
+          "Item1": "System.IO.Packaging",
+          "Item2": "[6.0.0, )"
+        },
+        {
+          "Item1": "System.Memory",
+          "Item2": "[4.5.4, )"
+        },
+        {
+          "Item1": "XLParser",
+          "Item2": "[1.5.2, )"
         }
       ]
     },
@@ -331,7 +428,7 @@
     },
     "DocumentFormat.OpenXml": {
       "Id": "DocumentFormat.OpenXml",
-      "Version": "2.12.1",
+      "Version": "2.16.0",
       "Dependencies": [
         {
           "Item1": "System.IO.Packaging",
@@ -341,7 +438,7 @@
     },
     "ExcelNumberFormat": {
       "Id": "ExcelNumberFormat",
-      "Version": "1.0.10",
+      "Version": "1.1.0",
       "Dependencies": []
     },
     "Google.Apis": {
@@ -424,6 +521,36 @@
       "Id": "HtmlAgilityPack",
       "Version": "1.11.38",
       "Dependencies": []
+    },
+    "Irony.NetCore": {
+      "Id": "Irony.NetCore",
+      "Version": "1.0.11",
+      "Dependencies": [
+        {
+          "Item1": "NETStandard.Library",
+          "Item2": "[1.6.1, )"
+        },
+        {
+          "Item1": "System.Reflection",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Reflection.Emit.Lightweight",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Reflection.Extensions",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Reflection.TypeExtensions",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Runtime.Numerics",
+          "Item2": "[4.3.0, )"
+        }
+      ]
     },
     "MailKit": {
       "Id": "MailKit",
@@ -608,7 +735,7 @@
     },
     "Microsoft.Bcl.AsyncInterfaces": {
       "Id": "Microsoft.Bcl.AsyncInterfaces",
-      "Version": "1.0.0",
+      "Version": "6.0.0",
       "Dependencies": []
     },
     "Microsoft.CodeAnalysis.Analyzers": {
@@ -820,56 +947,78 @@
       "Version": "4.35.1",
       "Dependencies": []
     },
+    "Microsoft.IdentityModel.Abstractions": {
+      "Id": "Microsoft.IdentityModel.Abstractions",
+      "Version": "6.34.0",
+      "Dependencies": []
+    },
     "Microsoft.IdentityModel.JsonWebTokens": {
       "Id": "Microsoft.IdentityModel.JsonWebTokens",
-      "Version": "6.12.2",
+      "Version": "6.34.0",
       "Dependencies": [
         {
           "Item1": "Microsoft.IdentityModel.Tokens",
-          "Item2": "[6.12.2, )"
+          "Item2": "[6.34.0, )"
+        },
+        {
+          "Item1": "System.Text.Encoding",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Text.Encodings.Web",
+          "Item2": "[4.7.2, )"
+        },
+        {
+          "Item1": "System.Text.Json",
+          "Item2": "[4.7.2, )"
         }
       ]
     },
     "Microsoft.IdentityModel.Logging": {
       "Id": "Microsoft.IdentityModel.Logging",
-      "Version": "6.12.2",
-      "Dependencies": []
+      "Version": "6.34.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.IdentityModel.Abstractions",
+          "Item2": "[6.34.0, )"
+        }
+      ]
     },
     "Microsoft.IdentityModel.Protocols": {
       "Id": "Microsoft.IdentityModel.Protocols",
-      "Version": "6.12.2",
+      "Version": "6.34.0",
       "Dependencies": [
         {
           "Item1": "Microsoft.IdentityModel.Logging",
-          "Item2": "[6.12.2, )"
+          "Item2": "[6.34.0, )"
         },
         {
           "Item1": "Microsoft.IdentityModel.Tokens",
-          "Item2": "[6.12.2, )"
+          "Item2": "[6.34.0, )"
         }
       ]
     },
     "Microsoft.IdentityModel.Protocols.OpenIdConnect": {
       "Id": "Microsoft.IdentityModel.Protocols.OpenIdConnect",
-      "Version": "6.12.2",
+      "Version": "6.34.0",
       "Dependencies": [
         {
           "Item1": "Microsoft.IdentityModel.Protocols",
-          "Item2": "[6.12.2, )"
+          "Item2": "[6.34.0, )"
         },
         {
           "Item1": "System.IdentityModel.Tokens.Jwt",
-          "Item2": "[6.12.2, )"
+          "Item2": "[6.34.0, )"
         }
       ]
     },
     "Microsoft.IdentityModel.Tokens": {
       "Id": "Microsoft.IdentityModel.Tokens",
-      "Version": "6.12.2",
+      "Version": "6.34.0",
       "Dependencies": [
         {
           "Item1": "Microsoft.IdentityModel.Logging",
-          "Item2": "[6.12.2, )"
+          "Item2": "[6.34.0, )"
         },
         {
           "Item1": "Microsoft.CSharp",
@@ -922,7 +1071,7 @@
     },
     "Microsoft.NETCore.Targets": {
       "Id": "Microsoft.NETCore.Targets",
-      "Version": "1.1.0",
+      "Version": "1.1.3",
       "Dependencies": []
     },
     "Microsoft.NETCore.Windows.ApiSets": {
@@ -1205,13 +1354,8 @@
     },
     "Microsoft.Win32.SystemEvents": {
       "Id": "Microsoft.Win32.SystemEvents",
-      "Version": "5.0.0",
-      "Dependencies": [
-        {
-          "Item1": "Microsoft.NETCore.Platforms",
-          "Item2": "[5.0.0, )"
-        }
-      ]
+      "Version": "6.0.0",
+      "Dependencies": []
     },
     "Microsoft.Windows.Compatibility": {
       "Id": "Microsoft.Windows.Compatibility",
@@ -1627,7 +1771,7 @@
     },
     "Newtonsoft.Json": {
       "Id": "Newtonsoft.Json",
-      "Version": "13.0.1",
+      "Version": "13.0.3",
       "Dependencies": []
     },
     "NJsonSchema": {
@@ -1679,6 +1823,11 @@
     "Portable.BouncyCastle": {
       "Id": "Portable.BouncyCastle",
       "Version": "1.9.0",
+      "Dependencies": []
+    },
+    "RestSharp": {
+      "Id": "RestSharp",
+      "Version": "106.15.0",
       "Dependencies": []
     },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl": {
@@ -1914,9 +2063,14 @@
       "Version": "1.3.3",
       "Dependencies": []
     },
+    "SixLabors.Fonts": {
+      "Id": "SixLabors.Fonts",
+      "Version": "1.0.0-beta18",
+      "Dependencies": []
+    },
     "System.Activities.ViewModels": {
       "Id": "System.Activities.ViewModels",
-      "Version": "1.0.0-20230906.1",
+      "Version": "1.0.0-20240418.6",
       "Dependencies": []
     },
     "System.AppContext": {
@@ -2039,15 +2193,15 @@
     },
     "System.Configuration.ConfigurationManager": {
       "Id": "System.Configuration.ConfigurationManager",
-      "Version": "5.0.0",
+      "Version": "6.0.0",
       "Dependencies": [
         {
           "Item1": "System.Security.Cryptography.ProtectedData",
-          "Item2": "[5.0.0, )"
+          "Item2": "[6.0.0, )"
         },
         {
           "Item1": "System.Security.Permissions",
-          "Item2": "[5.0.0, )"
+          "Item2": "[6.0.0, )"
         }
       ]
     },
@@ -2152,8 +2306,13 @@
     },
     "System.Diagnostics.DiagnosticSource": {
       "Id": "System.Diagnostics.DiagnosticSource",
-      "Version": "4.7.1",
-      "Dependencies": []
+      "Version": "6.0.0",
+      "Dependencies": [
+        {
+          "Item1": "System.Runtime.CompilerServices.Unsafe",
+          "Item2": "[6.0.0, )"
+        }
+      ]
     },
     "System.Diagnostics.EventLog": {
       "Id": "System.Diagnostics.EventLog",
@@ -2307,11 +2466,11 @@
     },
     "System.Drawing.Common": {
       "Id": "System.Drawing.Common",
-      "Version": "5.0.3",
+      "Version": "6.0.0",
       "Dependencies": [
         {
           "Item1": "Microsoft.Win32.SystemEvents",
-          "Item2": "[5.0.0, )"
+          "Item2": "[6.0.0, )"
         }
       ]
     },
@@ -2392,15 +2551,15 @@
     },
     "System.IdentityModel.Tokens.Jwt": {
       "Id": "System.IdentityModel.Tokens.Jwt",
-      "Version": "6.12.2",
+      "Version": "6.34.0",
       "Dependencies": [
         {
           "Item1": "Microsoft.IdentityModel.JsonWebTokens",
-          "Item2": "[6.12.2, )"
+          "Item2": "[6.34.0, )"
         },
         {
           "Item1": "Microsoft.IdentityModel.Tokens",
-          "Item2": "[6.12.2, )"
+          "Item2": "[6.34.0, )"
         }
       ]
     },
@@ -2612,7 +2771,7 @@
     },
     "System.IO.Packaging": {
       "Id": "System.IO.Packaging",
-      "Version": "5.0.0",
+      "Version": "6.0.0",
       "Dependencies": []
     },
     "System.IO.Pipelines": {
@@ -2671,6 +2830,26 @@
         {
           "Item1": "System.Runtime.Extensions",
           "Item2": "[4.3.0, )"
+        }
+      ]
+    },
+    "System.Linq.Async": {
+      "Id": "System.Linq.Async",
+      "Version": "6.0.1",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Bcl.AsyncInterfaces",
+          "Item2": "[6.0.0, )"
+        }
+      ]
+    },
+    "System.Linq.Async.Queryable": {
+      "Id": "System.Linq.Async.Queryable",
+      "Version": "6.0.1",
+      "Dependencies": [
+        {
+          "Item1": "System.Linq.Async",
+          "Item2": "[6.0.1, )"
         }
       ]
     },
@@ -3205,25 +3384,25 @@
     },
     "System.Runtime": {
       "Id": "System.Runtime",
-      "Version": "4.3.0",
+      "Version": "4.3.1",
       "Dependencies": [
         {
           "Item1": "Microsoft.NETCore.Platforms",
-          "Item2": "[1.1.0, )"
+          "Item2": "[1.1.1, )"
         },
         {
           "Item1": "Microsoft.NETCore.Targets",
-          "Item2": "[1.1.0, )"
+          "Item2": "[1.1.3, )"
         }
       ]
     },
     "System.Runtime.Caching": {
       "Id": "System.Runtime.Caching",
-      "Version": "5.0.0",
+      "Version": "6.0.0",
       "Dependencies": [
         {
           "Item1": "System.Configuration.ConfigurationManager",
-          "Item2": "[5.0.0, )"
+          "Item2": "[6.0.0, )"
         }
       ]
     },
@@ -3356,17 +3535,8 @@
     },
     "System.Security.AccessControl": {
       "Id": "System.Security.AccessControl",
-      "Version": "5.0.0",
-      "Dependencies": [
-        {
-          "Item1": "Microsoft.NETCore.Platforms",
-          "Item2": "[5.0.0, )"
-        },
-        {
-          "Item1": "System.Security.Principal.Windows",
-          "Item2": "[5.0.0, )"
-        }
-      ]
+      "Version": "6.0.0",
+      "Dependencies": []
     },
     "System.Security.Claims": {
       "Id": "System.Security.Claims",
@@ -3690,7 +3860,7 @@
     },
     "System.Security.Cryptography.ProtectedData": {
       "Id": "System.Security.Cryptography.ProtectedData",
-      "Version": "5.0.0",
+      "Version": "6.0.0",
       "Dependencies": []
     },
     "System.Security.Cryptography.X509Certificates": {
@@ -3815,15 +3985,15 @@
     },
     "System.Security.Permissions": {
       "Id": "System.Security.Permissions",
-      "Version": "5.0.0",
+      "Version": "6.0.0",
       "Dependencies": [
         {
           "Item1": "System.Security.AccessControl",
-          "Item2": "[5.0.0, )"
+          "Item2": "[6.0.0, )"
         },
         {
           "Item1": "System.Windows.Extensions",
-          "Item2": "[5.0.0, )"
+          "Item2": "[6.0.0, )"
         }
       ]
     },
@@ -3975,21 +4145,35 @@
     },
     "System.Text.Encodings.Web": {
       "Id": "System.Text.Encodings.Web",
-      "Version": "5.0.0",
-      "Dependencies": []
+      "Version": "6.0.0",
+      "Dependencies": [
+        {
+          "Item1": "System.Runtime.CompilerServices.Unsafe",
+          "Item2": "[6.0.0, )"
+        }
+      ]
     },
     "System.Text.Json": {
       "Id": "System.Text.Json",
-      "Version": "5.0.2",
-      "Dependencies": []
+      "Version": "6.0.9",
+      "Dependencies": [
+        {
+          "Item1": "System.Runtime.CompilerServices.Unsafe",
+          "Item2": "[6.0.0, )"
+        },
+        {
+          "Item1": "System.Text.Encodings.Web",
+          "Item2": "[6.0.0, )"
+        }
+      ]
     },
     "System.Text.RegularExpressions": {
       "Id": "System.Text.RegularExpressions",
-      "Version": "4.3.0",
+      "Version": "4.3.1",
       "Dependencies": [
         {
           "Item1": "System.Runtime",
-          "Item2": "[4.3.0, )"
+          "Item2": "[4.3.1, )"
         }
       ]
     },
@@ -4046,7 +4230,7 @@
     },
     "System.Threading.Tasks.Dataflow": {
       "Id": "System.Threading.Tasks.Dataflow",
-      "Version": "5.0.0",
+      "Version": "6.0.0",
       "Dependencies": []
     },
     "System.Threading.Tasks.Extensions": {
@@ -4079,11 +4263,11 @@
     },
     "System.Windows.Extensions": {
       "Id": "System.Windows.Extensions",
-      "Version": "5.0.0",
+      "Version": "6.0.0",
       "Dependencies": [
         {
           "Item1": "System.Drawing.Common",
-          "Item2": "[5.0.0, )"
+          "Item2": "[6.0.0, )"
         }
       ]
     },
@@ -4224,7 +4408,7 @@
     },
     "UiPath.CodedWorkflows": {
       "Id": "UiPath.CodedWorkflows",
-      "Version": "23.10.4",
+      "Version": "24.10.0",
       "Dependencies": [
         {
           "Item1": "Microsoft.Extensions.DependencyInjection",
@@ -4250,19 +4434,15 @@
     },
     "UiPath.ConnectionClient": {
       "Id": "UiPath.ConnectionClient",
-      "Version": "1.4.6",
+      "Version": "2.0.9",
       "Dependencies": [
         {
           "Item1": "Newtonsoft.Json",
-          "Item2": "[11.0.2, )"
-        },
-        {
-          "Item1": "System.Net.Http",
-          "Item2": "[4.3.4, )"
+          "Item2": "[13.0.3, )"
         },
         {
           "Item1": "System.Runtime.Caching",
-          "Item2": "[5.0.0, )"
+          "Item2": "[6.0.0, )"
         }
       ]
     },
@@ -4395,6 +4575,72 @@
         }
       ]
     },
+    "UiPath.MicrosoftOffice365.Activities": {
+      "Id": "UiPath.MicrosoftOffice365.Activities",
+      "Version": "2.7.22",
+      "Dependencies": [
+        {
+          "Item1": "ClosedXML",
+          "Item2": "[0.100.3, )"
+        },
+        {
+          "Item1": "Microsoft.Graph",
+          "Item2": "[4.11.0, )"
+        },
+        {
+          "Item1": "Microsoft.IdentityModel.Protocols.OpenIdConnect",
+          "Item2": "[6.34.0, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[13.0.3, )"
+        },
+        {
+          "Item1": "System.Activities.ViewModels",
+          "Item2": "[1.0.0-20240418.6, )"
+        },
+        {
+          "Item1": "System.ComponentModel.Annotations",
+          "Item2": "[5.0.0, )"
+        },
+        {
+          "Item1": "System.Linq.Async.Queryable",
+          "Item2": "[6.0.1, )"
+        },
+        {
+          "Item1": "System.Runtime.Caching",
+          "Item2": "[6.0.0, )"
+        },
+        {
+          "Item1": "System.Text.Json",
+          "Item2": "[6.0.9, )"
+        },
+        {
+          "Item1": "System.Text.RegularExpressions",
+          "Item2": "[4.3.1, )"
+        },
+        {
+          "Item1": "UiPath.Activities.RuntimeGovernance",
+          "Item2": "[1.1.6, )"
+        },
+        {
+          "Item1": "UiPath.CodedWorkflows",
+          "Item2": "[24.10.0, )"
+        },
+        {
+          "Item1": "UiPath.ConnectionClient",
+          "Item2": "[2.0.9, )"
+        },
+        {
+          "Item1": "UiPath.Platform",
+          "Item2": "[24.2.0, )"
+        },
+        {
+          "Item1": "UiPath.Telemetry.Client",
+          "Item2": "[2.1.3, )"
+        }
+      ]
+    },
     "UiPath.OCR.Activities": {
       "Id": "UiPath.OCR.Activities",
       "Version": "3.17.1",
@@ -4451,9 +4697,19 @@
         }
       ]
     },
+    "UiPath.OpenTelemetry.Contracts": {
+      "Id": "UiPath.OpenTelemetry.Contracts",
+      "Version": "2.1.3",
+      "Dependencies": [
+        {
+          "Item1": "System.Diagnostics.DiagnosticSource",
+          "Item2": "[6.0.0, )"
+        }
+      ]
+    },
     "UiPath.Platform": {
       "Id": "UiPath.Platform",
-      "Version": "23.10.0",
+      "Version": "24.10.2",
       "Dependencies": [
         {
           "Item1": "Newtonsoft.Json",
@@ -4462,6 +4718,10 @@
         {
           "Item1": "System.IO.Abstractions",
           "Item2": "[3.0.10, )"
+        },
+        {
+          "Item1": "System.Threading.Tasks.Dataflow",
+          "Item2": "[6.0.0, )"
         },
         {
           "Item1": "System.ValueTuple",
@@ -4625,8 +4885,12 @@
     },
     "UiPath.Telemetry.Client": {
       "Id": "UiPath.Telemetry.Client",
-      "Version": "1.6.69",
+      "Version": "2.1.3",
       "Dependencies": [
+        {
+          "Item1": "UiPath.OpenTelemetry.Contracts",
+          "Item2": "[2.1.3, )"
+        },
         {
           "Item1": "Newtonsoft.Json",
           "Item2": "[11.0.2, )"
@@ -4756,6 +5020,80 @@
           "Item2": "[2.16.0, )"
         }
       ]
+    },
+    "UiPath.WebAPI.Activities": {
+      "Id": "UiPath.WebAPI.Activities",
+      "Version": "1.21.1",
+      "Dependencies": [
+        {
+          "Item1": "UiPath.WebAPI.Activities.Runtime",
+          "Item2": "[1.21.1, )"
+        },
+        {
+          "Item1": "AvalonEdit",
+          "Item2": "[6.1.3.50, )"
+        },
+        {
+          "Item1": "Microsoft.CSharp",
+          "Item2": "[4.7.0, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[13.0.1, )"
+        },
+        {
+          "Item1": "RestSharp",
+          "Item2": "[106.15.0, )"
+        },
+        {
+          "Item1": "UiPath.Platform",
+          "Item2": "[24.10.2, )"
+        },
+        {
+          "Item1": "UiPath.Telemetry.Client",
+          "Item2": "[2.1.3, )"
+        }
+      ]
+    },
+    "UiPath.WebAPI.Activities.Runtime": {
+      "Id": "UiPath.WebAPI.Activities.Runtime",
+      "Version": "1.21.1",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.CSharp",
+          "Item2": "[4.7.0, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[13.0.1, )"
+        },
+        {
+          "Item1": "RestSharp",
+          "Item2": "[106.15.0, )"
+        },
+        {
+          "Item1": "UiPath.Platform",
+          "Item2": "[24.10.2, )"
+        },
+        {
+          "Item1": "UiPath.Telemetry.Client",
+          "Item2": "[2.1.3, )"
+        }
+      ]
+    },
+    "XLParser": {
+      "Id": "XLParser",
+      "Version": "1.5.2",
+      "Dependencies": [
+        {
+          "Item1": "Irony.NetCore",
+          "Item2": "[1.0.11, )"
+        },
+        {
+          "Item1": "NETStandard.Library",
+          "Item2": "[1.6.1, )"
+        }
+      ]
     }
   },
   "AllPackages": [
@@ -4771,6 +5109,16 @@
     },
     {
       "Package": {
+        "Id": "AvalonEdit",
+        "Version": "6.1.3.50"
+      },
+      "Assemblies": [
+        "C:\\Users\\rober\\.nuget\\packages\\avalonedit\\6.1.3.50\\lib\\net6.0-windows7.0\\ICSharpCode.AvalonEdit.dll"
+      ],
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\avalonedit\\6.1.3.50"
+    },
+    {
+      "Package": {
         "Id": "Azure.Core",
         "Version": "1.18.0"
       },
@@ -4782,12 +5130,12 @@
     {
       "Package": {
         "Id": "ClosedXML",
-        "Version": "0.95.4"
+        "Version": "0.100.3"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\closedxml\\0.95.4\\lib\\netstandard2.0\\ClosedXML.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\closedxml\\0.100.3\\lib\\netstandard2.0\\ClosedXML.dll"
       ],
-      "Path": "C:\\Users\\rober\\.nuget\\packages\\closedxml\\0.95.4"
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\closedxml\\0.100.3"
     },
     {
       "Package": {
@@ -4802,22 +5150,22 @@
     {
       "Package": {
         "Id": "DocumentFormat.OpenXml",
-        "Version": "2.12.1"
+        "Version": "2.16.0"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\documentformat.openxml\\2.12.1\\lib\\netstandard2.0\\DocumentFormat.OpenXml.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\documentformat.openxml\\2.16.0\\lib\\netstandard2.0\\DocumentFormat.OpenXml.dll"
       ],
-      "Path": "C:\\Users\\rober\\.nuget\\packages\\documentformat.openxml\\2.12.1"
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\documentformat.openxml\\2.16.0"
     },
     {
       "Package": {
         "Id": "ExcelNumberFormat",
-        "Version": "1.0.10"
+        "Version": "1.1.0"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\excelnumberformat\\1.0.10\\lib\\netstandard2.0\\ExcelNumberFormat.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\excelnumberformat\\1.1.0\\lib\\netstandard2.0\\ExcelNumberFormat.dll"
       ],
-      "Path": "C:\\Users\\rober\\.nuget\\packages\\excelnumberformat\\1.0.10"
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\excelnumberformat\\1.1.0"
     },
     {
       "Package": {
@@ -4835,8 +5183,8 @@
         "Version": "1.55.0"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib\\netstandard2.0\\Google.Apis.Auth.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib\\netstandard2.0\\Google.Apis.Auth.PlatformServices.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib\\netstandard2.0\\Google.Apis.Auth.PlatformServices.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib\\netstandard2.0\\Google.Apis.Auth.dll"
       ],
       "Path": "C:\\Users\\rober\\.nuget\\packages\\google.apis.auth\\1.55.0"
     },
@@ -4889,6 +5237,16 @@
         "C:\\Users\\rober\\.nuget\\packages\\htmlagilitypack\\1.11.38\\lib\\netstandard2.0\\HtmlAgilityPack.dll"
       ],
       "Path": "C:\\Users\\rober\\.nuget\\packages\\htmlagilitypack\\1.11.38"
+    },
+    {
+      "Package": {
+        "Id": "Irony.NetCore",
+        "Version": "1.0.11"
+      },
+      "Assemblies": [
+        "C:\\Users\\rober\\.nuget\\packages\\irony.netcore\\1.0.11\\lib\\netstandard1.6\\Irony.dll"
+      ],
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\irony.netcore\\1.0.11"
     },
     {
       "Package": {
@@ -5023,12 +5381,12 @@
     {
       "Package": {
         "Id": "Microsoft.Bcl.AsyncInterfaces",
-        "Version": "1.0.0"
+        "Version": "6.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\lib\\netstandard2.1\\Microsoft.Bcl.AsyncInterfaces.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\lib\\netstandard2.1\\Microsoft.Bcl.AsyncInterfaces.dll"
       ],
-      "Path": "C:\\Users\\rober\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0"
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0"
     },
     {
       "Package": {
@@ -5210,53 +5568,63 @@
     },
     {
       "Package": {
-        "Id": "Microsoft.IdentityModel.JsonWebTokens",
-        "Version": "6.12.2"
+        "Id": "Microsoft.IdentityModel.Abstractions",
+        "Version": "6.34.0"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.12.2\\lib\\netstandard2.0\\Microsoft.IdentityModel.JsonWebTokens.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.34.0\\lib\\net6.0\\Microsoft.IdentityModel.Abstractions.dll"
       ],
-      "Path": "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.12.2"
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.34.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.IdentityModel.JsonWebTokens",
+        "Version": "6.34.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.34.0\\lib\\net6.0\\Microsoft.IdentityModel.JsonWebTokens.dll"
+      ],
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.34.0"
     },
     {
       "Package": {
         "Id": "Microsoft.IdentityModel.Logging",
-        "Version": "6.12.2"
+        "Version": "6.34.0"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.2\\lib\\netstandard2.0\\Microsoft.IdentityModel.Logging.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.logging\\6.34.0\\lib\\net6.0\\Microsoft.IdentityModel.Logging.dll"
       ],
-      "Path": "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.2"
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.logging\\6.34.0"
     },
     {
       "Package": {
         "Id": "Microsoft.IdentityModel.Protocols",
-        "Version": "6.12.2"
+        "Version": "6.34.0"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.12.2\\lib\\netstandard2.0\\Microsoft.IdentityModel.Protocols.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.34.0\\lib\\net6.0\\Microsoft.IdentityModel.Protocols.dll"
       ],
-      "Path": "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.12.2"
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.34.0"
     },
     {
       "Package": {
         "Id": "Microsoft.IdentityModel.Protocols.OpenIdConnect",
-        "Version": "6.12.2"
+        "Version": "6.34.0"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.12.2\\lib\\netstandard2.0\\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.34.0\\lib\\net6.0\\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll"
       ],
-      "Path": "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.12.2"
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.34.0"
     },
     {
       "Package": {
         "Id": "Microsoft.IdentityModel.Tokens",
-        "Version": "6.12.2"
+        "Version": "6.34.0"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.2\\lib\\netstandard2.0\\Microsoft.IdentityModel.Tokens.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.34.0\\lib\\net6.0\\Microsoft.IdentityModel.Tokens.dll"
       ],
-      "Path": "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.2"
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.34.0"
     },
     {
       "Package": {
@@ -5292,8 +5660,8 @@
         "Version": "2.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes\\win10-x64\\lib\\netstandard1.6\\Microsoft.Management.Infrastructure.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes\\win10-x64\\lib\\netstandard1.6\\Microsoft.Management.Infrastructure.Native.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes\\win10-x64\\lib\\netstandard1.6\\Microsoft.Management.Infrastructure.Native.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes\\win10-x64\\lib\\netstandard1.6\\Microsoft.Management.Infrastructure.dll"
       ],
       "Path": "C:\\Users\\rober\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0"
     },
@@ -5310,12 +5678,12 @@
     {
       "Package": {
         "Id": "Microsoft.NETCore.Targets",
-        "Version": "1.1.0"
+        "Version": "1.1.3"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\lib\\netstandard1.0\\_._"
+        "C:\\Users\\rober\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\lib\\netstandard1.0\\_._"
       ],
-      "Path": "C:\\Users\\rober\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0"
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3"
     },
     {
       "Package": {
@@ -5484,12 +5852,12 @@
     {
       "Package": {
         "Id": "Microsoft.Win32.SystemEvents",
-        "Version": "5.0.0"
+        "Version": "6.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\runtimes\\win\\lib\\netcoreapp3.0\\Microsoft.Win32.SystemEvents.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\runtimes\\win\\lib\\net6.0\\Microsoft.Win32.SystemEvents.dll"
       ],
-      "Path": "C:\\Users\\rober\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0"
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0"
     },
     {
       "Package": {
@@ -5558,12 +5926,12 @@
     {
       "Package": {
         "Id": "Newtonsoft.Json",
-        "Version": "13.0.1"
+        "Version": "13.0.3"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\newtonsoft.json\\13.0.1\\lib\\netstandard2.0\\Newtonsoft.Json.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib\\net6.0\\Newtonsoft.Json.dll"
       ],
-      "Path": "C:\\Users\\rober\\.nuget\\packages\\newtonsoft.json\\13.0.1"
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\newtonsoft.json\\13.0.3"
     },
     {
       "Package": {
@@ -5591,10 +5959,10 @@
         "Version": "2.5.5"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.dll",
         "C:\\Users\\rober\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.OOXML.dll",
         "C:\\Users\\rober\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.OpenXml4Net.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.OpenXmlFormats.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\npoi\\2.5.5\\lib\\netstandard2.1\\NPOI.dll"
       ],
       "Path": "C:\\Users\\rober\\.nuget\\packages\\npoi\\2.5.5"
     },
@@ -5617,6 +5985,16 @@
         "C:\\Users\\rober\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\lib\\netstandard2.0\\BouncyCastle.Crypto.dll"
       ],
       "Path": "C:\\Users\\rober\\.nuget\\packages\\portable.bouncycastle\\1.9.0"
+    },
+    {
+      "Package": {
+        "Id": "RestSharp",
+        "Version": "106.15.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\rober\\.nuget\\packages\\restsharp\\106.15.0\\lib\\netstandard2.0\\RestSharp.dll"
+      ],
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\restsharp\\106.15.0"
     },
     {
       "Package": {
@@ -6011,12 +6389,12 @@
     {
       "Package": {
         "Id": "runtime.win.System.Console",
-        "Version": "4.3.0"
+        "Version": "4.3.1"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\runtime.win.system.console\\4.3.0\\runtimes\\win\\lib\\netstandard1.3\\System.Console.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\runtime.win.system.console\\4.3.1\\runtimes\\win\\lib\\netstandard1.3\\System.Console.dll"
       ],
-      "Path": "C:\\Users\\rober\\.nuget\\packages\\runtime.win.system.console\\4.3.0"
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\runtime.win.system.console\\4.3.1"
     },
     {
       "Package": {
@@ -6071,10 +6449,10 @@
     {
       "Package": {
         "Id": "runtime.win7-x64.runtime.native.System.IO.Compression",
-        "Version": "4.3.0"
+        "Version": "4.3.2"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\rober\\.nuget\\packages\\runtime.win7-x64.runtime.native.system.io.compression\\4.3.0"
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\runtime.win7-x64.runtime.native.system.io.compression\\4.3.2"
     },
     {
       "Package": {
@@ -6098,13 +6476,23 @@
     },
     {
       "Package": {
-        "Id": "System.Activities.ViewModels",
-        "Version": "1.0.0-20230906.1"
+        "Id": "SixLabors.Fonts",
+        "Version": "1.0.0-beta18"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\system.activities.viewmodels\\1.0.0-20230906.1\\lib\\net6.0-windows7.0\\System.Activities.ViewModels.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\sixlabors.fonts\\1.0.0-beta18\\lib\\netcoreapp3.1\\SixLabors.Fonts.dll"
       ],
-      "Path": "C:\\Users\\rober\\.nuget\\packages\\system.activities.viewmodels\\1.0.0-20230906.1"
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\sixlabors.fonts\\1.0.0-beta18"
+    },
+    {
+      "Package": {
+        "Id": "System.Activities.ViewModels",
+        "Version": "1.0.0-20240418.6"
+      },
+      "Assemblies": [
+        "C:\\Users\\rober\\.nuget\\packages\\system.activities.viewmodels\\1.0.0-20240418.6\\lib\\net6.0-windows7.0\\System.Activities.ViewModels.dll"
+      ],
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\system.activities.viewmodels\\1.0.0-20240418.6"
     },
     {
       "Package": {
@@ -6197,12 +6585,12 @@
     {
       "Package": {
         "Id": "System.Configuration.ConfigurationManager",
-        "Version": "5.0.0"
+        "Version": "6.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\lib\\netstandard2.0\\System.Configuration.ConfigurationManager.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\lib\\net6.0\\System.Configuration.ConfigurationManager.dll"
       ],
-      "Path": "C:\\Users\\rober\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0"
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0"
     },
     {
       "Package": {
@@ -6263,12 +6651,12 @@
     {
       "Package": {
         "Id": "System.Diagnostics.DiagnosticSource",
-        "Version": "4.7.1"
+        "Version": "6.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\lib\\netstandard1.3\\System.Diagnostics.DiagnosticSource.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\lib\\net6.0\\System.Diagnostics.DiagnosticSource.dll"
       ],
-      "Path": "C:\\Users\\rober\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1"
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0"
     },
     {
       "Package": {
@@ -6339,12 +6727,12 @@
     {
       "Package": {
         "Id": "System.Drawing.Common",
-        "Version": "5.0.3"
+        "Version": "6.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\system.drawing.common\\5.0.3\\runtimes\\win\\lib\\netcoreapp3.0\\System.Drawing.Common.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\system.drawing.common\\6.0.0\\runtimes\\win\\lib\\net6.0\\System.Drawing.Common.dll"
       ],
-      "Path": "C:\\Users\\rober\\.nuget\\packages\\system.drawing.common\\5.0.3"
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\system.drawing.common\\6.0.0"
     },
     {
       "Package": {
@@ -6385,12 +6773,12 @@
     {
       "Package": {
         "Id": "System.IdentityModel.Tokens.Jwt",
-        "Version": "6.12.2"
+        "Version": "6.34.0"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.12.2\\lib\\netstandard2.0\\System.IdentityModel.Tokens.Jwt.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.34.0\\lib\\net6.0\\System.IdentityModel.Tokens.Jwt.dll"
       ],
-      "Path": "C:\\Users\\rober\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.12.2"
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.34.0"
     },
     {
       "Package": {
@@ -6461,12 +6849,12 @@
     {
       "Package": {
         "Id": "System.IO.Packaging",
-        "Version": "5.0.0"
+        "Version": "6.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\system.io.packaging\\5.0.0\\lib\\netstandard2.0\\System.IO.Packaging.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\system.io.packaging\\6.0.0\\lib\\net6.0\\System.IO.Packaging.dll"
       ],
-      "Path": "C:\\Users\\rober\\.nuget\\packages\\system.io.packaging\\5.0.0"
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\system.io.packaging\\6.0.0"
     },
     {
       "Package": {
@@ -6507,6 +6895,26 @@
         "C:\\Users\\rober\\.nuget\\packages\\system.linq\\4.3.0\\lib\\netstandard1.6\\System.Linq.dll"
       ],
       "Path": "C:\\Users\\rober\\.nuget\\packages\\system.linq\\4.3.0"
+    },
+    {
+      "Package": {
+        "Id": "System.Linq.Async",
+        "Version": "6.0.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\rober\\.nuget\\packages\\system.linq.async\\6.0.1\\lib\\net6.0\\System.Linq.Async.dll"
+      ],
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\system.linq.async\\6.0.1"
+    },
+    {
+      "Package": {
+        "Id": "System.Linq.Async.Queryable",
+        "Version": "6.0.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\rober\\.nuget\\packages\\system.linq.async.queryable\\6.0.1\\lib\\net6.0\\System.Linq.Async.Queryable.dll"
+      ],
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\system.linq.async.queryable\\6.0.1"
     },
     {
       "Package": {
@@ -6747,20 +7155,20 @@
     {
       "Package": {
         "Id": "System.Runtime",
-        "Version": "4.3.0"
+        "Version": "4.3.1"
       },
       "Assemblies": [],
-      "Path": "C:\\Users\\rober\\.nuget\\packages\\system.runtime\\4.3.0"
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\system.runtime\\4.3.1"
     },
     {
       "Package": {
         "Id": "System.Runtime.Caching",
-        "Version": "5.0.0"
+        "Version": "6.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\system.runtime.caching\\5.0.0\\runtimes\\win\\lib\\netstandard2.0\\System.Runtime.Caching.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\system.runtime.caching\\6.0.0\\runtimes\\win\\lib\\net6.0\\System.Runtime.Caching.dll"
       ],
-      "Path": "C:\\Users\\rober\\.nuget\\packages\\system.runtime.caching\\5.0.0"
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\system.runtime.caching\\6.0.0"
     },
     {
       "Package": {
@@ -6819,12 +7227,12 @@
     {
       "Package": {
         "Id": "System.Security.AccessControl",
-        "Version": "5.0.0"
+        "Version": "6.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\runtimes\\win\\lib\\netcoreapp2.0\\System.Security.AccessControl.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\runtimes\\win\\lib\\net6.0\\System.Security.AccessControl.dll"
       ],
-      "Path": "C:\\Users\\rober\\.nuget\\packages\\system.security.accesscontrol\\5.0.0"
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\system.security.accesscontrol\\6.0.0"
     },
     {
       "Package": {
@@ -6909,12 +7317,12 @@
     {
       "Package": {
         "Id": "System.Security.Cryptography.ProtectedData",
-        "Version": "5.0.0"
+        "Version": "6.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\system.security.cryptography.protecteddata\\5.0.0\\runtimes\\win\\lib\\netstandard2.0\\System.Security.Cryptography.ProtectedData.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\runtimes\\win\\lib\\net6.0\\System.Security.Cryptography.ProtectedData.dll"
       ],
-      "Path": "C:\\Users\\rober\\.nuget\\packages\\system.security.cryptography.protecteddata\\5.0.0"
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0"
     },
     {
       "Package": {
@@ -6939,12 +7347,12 @@
     {
       "Package": {
         "Id": "System.Security.Permissions",
-        "Version": "5.0.0"
+        "Version": "6.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\system.security.permissions\\5.0.0\\lib\\net5.0\\System.Security.Permissions.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\system.security.permissions\\6.0.0\\lib\\net6.0\\System.Security.Permissions.dll"
       ],
-      "Path": "C:\\Users\\rober\\.nuget\\packages\\system.security.permissions\\5.0.0"
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\system.security.permissions\\6.0.0"
     },
     {
       "Package": {
@@ -7002,8 +7410,8 @@
         "Version": "4.7.0"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib\\netcoreapp2.1\\System.ServiceModel.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib\\netcoreapp2.1\\System.ServiceModel.Primitives.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib\\netcoreapp2.1\\System.ServiceModel.Primitives.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0\\lib\\netcoreapp2.1\\System.ServiceModel.dll"
       ],
       "Path": "C:\\Users\\rober\\.nuget\\packages\\system.servicemodel.primitives\\4.7.0"
     },
@@ -7066,32 +7474,32 @@
     {
       "Package": {
         "Id": "System.Text.Encodings.Web",
-        "Version": "5.0.0"
+        "Version": "6.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\system.text.encodings.web\\5.0.0\\lib\\netcoreapp3.0\\System.Text.Encodings.Web.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\lib\\net6.0\\System.Text.Encodings.Web.dll"
       ],
-      "Path": "C:\\Users\\rober\\.nuget\\packages\\system.text.encodings.web\\5.0.0"
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\system.text.encodings.web\\6.0.0"
     },
     {
       "Package": {
         "Id": "System.Text.Json",
-        "Version": "5.0.2"
+        "Version": "6.0.9"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\system.text.json\\5.0.2\\lib\\netcoreapp3.0\\System.Text.Json.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\system.text.json\\6.0.9\\lib\\net6.0\\System.Text.Json.dll"
       ],
-      "Path": "C:\\Users\\rober\\.nuget\\packages\\system.text.json\\5.0.2"
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\system.text.json\\6.0.9"
     },
     {
       "Package": {
         "Id": "System.Text.RegularExpressions",
-        "Version": "4.3.0"
+        "Version": "4.3.1"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\system.text.regularexpressions\\4.3.0\\lib\\netstandard1.6\\System.Text.RegularExpressions.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\system.text.regularexpressions\\4.3.1\\lib\\netstandard1.6\\System.Text.RegularExpressions.dll"
       ],
-      "Path": "C:\\Users\\rober\\.nuget\\packages\\system.text.regularexpressions\\4.3.0"
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\system.text.regularexpressions\\4.3.1"
     },
     {
       "Package": {
@@ -7144,12 +7552,12 @@
     {
       "Package": {
         "Id": "System.Threading.Tasks.Dataflow",
-        "Version": "5.0.0"
+        "Version": "6.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\system.threading.tasks.dataflow\\5.0.0\\lib\\netstandard2.0\\System.Threading.Tasks.Dataflow.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\system.threading.tasks.dataflow\\6.0.0\\lib\\net6.0\\System.Threading.Tasks.Dataflow.dll"
       ],
-      "Path": "C:\\Users\\rober\\.nuget\\packages\\system.threading.tasks.dataflow\\5.0.0"
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\system.threading.tasks.dataflow\\6.0.0"
     },
     {
       "Package": {
@@ -7182,12 +7590,12 @@
     {
       "Package": {
         "Id": "System.Windows.Extensions",
-        "Version": "5.0.0"
+        "Version": "6.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\system.windows.extensions\\5.0.0\\runtimes\\win\\lib\\netcoreapp3.0\\System.Windows.Extensions.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\system.windows.extensions\\6.0.0\\runtimes\\win\\lib\\net6.0\\System.Windows.Extensions.dll"
       ],
-      "Path": "C:\\Users\\rober\\.nuget\\packages\\system.windows.extensions\\5.0.0"
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\system.windows.extensions\\6.0.0"
     },
     {
       "Package": {
@@ -7232,22 +7640,22 @@
     {
       "Package": {
         "Id": "UiPath.CodedWorkflows",
-        "Version": "23.10.4"
+        "Version": "24.10.0"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\uipath.codedworkflows\\23.10.4\\lib\\net6.0-windows7.0\\UiPath.CodedWorkflows.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.codedworkflows\\24.10.0\\lib\\net6.0-windows7.0\\UiPath.CodedWorkflows.dll"
       ],
-      "Path": "C:\\Users\\rober\\.nuget\\packages\\uipath.codedworkflows\\23.10.4"
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\uipath.codedworkflows\\24.10.0"
     },
     {
       "Package": {
         "Id": "UiPath.ConnectionClient",
-        "Version": "1.4.6"
+        "Version": "2.0.9"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\uipath.connectionclient\\1.4.6\\lib\\net5.0\\ConnectionClient.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.connectionclient\\2.0.9\\lib\\net6.0\\ConnectionClient.dll"
       ],
-      "Path": "C:\\Users\\rober\\.nuget\\packages\\uipath.connectionclient\\1.4.6"
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\uipath.connectionclient\\2.0.9"
     },
     {
       "Package": {
@@ -7259,8 +7667,8 @@
         "C:\\Users\\rober\\.nuget\\packages\\uipath.excel.activities\\2.22.3\\lib\\net6.0-windows7.0\\Microsoft.Vbe.Interop.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.excel.activities\\2.22.3\\lib\\net6.0-windows7.0\\Office.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.excel.activities\\2.22.3\\lib\\net6.0-windows7.0\\UiPath.Excel.Activities.Design.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\uipath.excel.activities\\2.22.3\\lib\\net6.0-windows7.0\\UiPath.Excel.Activities.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.excel.activities\\2.22.3\\lib\\net6.0-windows7.0\\UiPath.Excel.Activities.Package.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.excel.activities\\2.22.3\\lib\\net6.0-windows7.0\\UiPath.Excel.Activities.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.excel.activities\\2.22.3\\lib\\net6.0-windows7.0\\UiPath.Excel.dll"
       ],
       "Path": "C:\\Users\\rober\\.nuget\\packages\\uipath.excel.activities\\2.22.3"
@@ -7295,6 +7703,19 @@
     },
     {
       "Package": {
+        "Id": "UiPath.MicrosoftOffice365.Activities",
+        "Version": "2.7.22"
+      },
+      "Assemblies": [
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.microsoftoffice365.activities\\2.7.22\\lib\\net6.0-windows7.0\\UiPath.MicrosoftOffice365.Activities.Api.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.microsoftoffice365.activities\\2.7.22\\lib\\net6.0-windows7.0\\UiPath.MicrosoftOffice365.Activities.Design.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.microsoftoffice365.activities\\2.7.22\\lib\\net6.0-windows7.0\\UiPath.MicrosoftOffice365.Activities.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.microsoftoffice365.activities\\2.7.22\\lib\\net6.0-windows7.0\\UiPath.MicrosoftOffice365.dll"
+      ],
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\uipath.microsoftoffice365.activities\\2.7.22"
+    },
+    {
+      "Package": {
         "Id": "UiPath.OCR.Activities",
         "Version": "3.17.1"
       },
@@ -7317,13 +7738,23 @@
     },
     {
       "Package": {
-        "Id": "UiPath.Platform",
-        "Version": "23.10.0"
+        "Id": "UiPath.OpenTelemetry.Contracts",
+        "Version": "2.1.3"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\uipath.platform\\23.10.0\\lib\\net6.0-windows7.0\\UiPath.Platform.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.opentelemetry.contracts\\2.1.3\\lib\\netstandard2.0\\UiPath.OpenTelemetry.Contracts.dll"
       ],
-      "Path": "C:\\Users\\rober\\.nuget\\packages\\uipath.platform\\23.10.0"
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\uipath.opentelemetry.contracts\\2.1.3"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Platform",
+        "Version": "24.10.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.platform\\24.10.2\\lib\\net6.0-windows7.0\\UiPath.Platform.dll"
+      ],
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\uipath.platform\\24.10.2"
     },
     {
       "Package": {
@@ -7361,12 +7792,12 @@
     {
       "Package": {
         "Id": "UiPath.Telemetry.Client",
-        "Version": "1.6.69"
+        "Version": "2.1.3"
       },
       "Assemblies": [
-        "C:\\Users\\rober\\.nuget\\packages\\uipath.telemetry.client\\1.6.69\\lib\\netstandard2.0\\TelemetryClient.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.telemetry.client\\2.1.3\\lib\\netstandard2.0\\TelemetryClient.dll"
       ],
-      "Path": "C:\\Users\\rober\\.nuget\\packages\\uipath.telemetry.client\\1.6.69"
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\uipath.telemetry.client\\2.1.3"
     },
     {
       "Package": {
@@ -7377,8 +7808,8 @@
         "C:\\Users\\rober\\.nuget\\packages\\uipath.testing.activities\\23.10.1\\lib\\net6.0-windows7.0\\UiPath.Testing.Activities.Api.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.testing.activities\\23.10.1\\lib\\net6.0-windows7.0\\UiPath.Testing.Activities.Design.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.testing.activities\\23.10.1\\lib\\net6.0-windows7.0\\UiPath.Testing.Activities.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\uipath.testing.activities\\23.10.1\\lib\\net6.0-windows7.0\\UiPath.Testing.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\uipath.testing.activities\\23.10.1\\lib\\net6.0-windows7.0\\UiPath.Testing.RulesLibrary.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.testing.activities\\23.10.1\\lib\\net6.0-windows7.0\\UiPath.Testing.RulesLibrary.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.testing.activities\\23.10.1\\lib\\net6.0-windows7.0\\UiPath.Testing.dll"
       ],
       "Path": "C:\\Users\\rober\\.nuget\\packages\\uipath.testing.activities\\23.10.1"
     },
@@ -7406,12 +7837,12 @@
         "C:\\Users\\rober\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.7\\lib\\net6.0-windows7.0\\UiPath.CV.Activities.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.7\\lib\\net6.0-windows7.0\\UiPath.CV.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.7\\lib\\net6.0-windows7.0\\UiPath.Semantic.Activities.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.7\\lib\\net6.0-windows7.0\\UiPath.UiAutomation.Activities.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.7\\lib\\net6.0-windows7.0\\UiPath.UIAutomationCore.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.7\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.API.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.7\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.Activities.Contracts.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.7\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.Activities.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.7\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.API.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.7\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.7\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.7\\lib\\net6.0-windows7.0\\UiPath.UiAutomation.Activities.dll"
       ],
       "Path": "C:\\Users\\rober\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\23.10.7"
     },
@@ -7423,11 +7854,44 @@
       "Assemblies": [
         "C:\\Users\\rober\\.nuget\\packages\\uipath.vision\\3.11.1\\lib\\net6.0-windows7.0\\UiPath.Vision.AzureComputerVision.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.vision\\3.11.1\\lib\\net6.0-windows7.0\\UiPath.Vision.Core.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\uipath.vision\\3.11.1\\lib\\net6.0-windows7.0\\UiPath.Vision.dll",
         "C:\\Users\\rober\\.nuget\\packages\\uipath.vision\\3.11.1\\lib\\net6.0-windows7.0\\UiPath.Vision.GoogleCloud.dll",
-        "C:\\Users\\rober\\.nuget\\packages\\uipath.vision\\3.11.1\\lib\\net6.0-windows7.0\\UiPath.Vision.Tesseract.dll"
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.vision\\3.11.1\\lib\\net6.0-windows7.0\\UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.vision\\3.11.1\\lib\\net6.0-windows7.0\\UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\rober\\.nuget\\packages\\uipath.vision\\3.11.1"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.WebAPI.Activities",
+        "Version": "1.21.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.webapi.activities\\1.21.1\\lib\\net6.0-windows7.0\\UiPath.Web.Activities.Design.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.webapi.activities\\1.21.1\\lib\\net6.0-windows7.0\\UiPath.Web.Activities.RulesLibrary.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.webapi.activities\\1.21.1\\lib\\net6.0-windows7.0\\UiPath.Web.Activities.ViewModels.dll"
+      ],
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\uipath.webapi.activities\\1.21.1"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.WebAPI.Activities.Runtime",
+        "Version": "1.21.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.webapi.activities.runtime\\1.21.1\\lib\\net6.0-windows7.0\\UiPath.Web.Activities.dll",
+        "C:\\Users\\rober\\.nuget\\packages\\uipath.webapi.activities.runtime\\1.21.1\\lib\\net6.0-windows7.0\\UiPath.Web.dll"
+      ],
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\uipath.webapi.activities.runtime\\1.21.1"
+    },
+    {
+      "Package": {
+        "Id": "XLParser",
+        "Version": "1.5.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\rober\\.nuget\\packages\\xlparser\\1.5.2\\lib\\netstandard1.6\\XLParser.dll"
+      ],
+      "Path": "C:\\Users\\rober\\.nuget\\packages\\xlparser\\1.5.2"
     }
   ]
 }
