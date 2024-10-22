@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y1CVa97FGCpR0e6Eu6e41t/gMM+uSorGG8edi0e/BMdtwVYNHvtCTERHlAsDbRLp7itgMQsRKsShiTDD6eZpVw==",
+  "dgSpecHash": "j8EWO3Hj31rq26yjG3ldgQfHiKDvDvPudfNgaTUURopJ5zRDlQbKLtxkwX3WH5hnmvZWNvmbRStQB71AXxf/sA==",
   "success": true,
-  "projectFilePath": "D:\\Coding Spaces\\UBB\\Business-Processes-Automation\\Labs\\Lab 1\\.local\\",
+  "projectFilePath": "C:\\Coding Spaces\\UBB\\Business-Processes-Automation\\Labs\\Lab 1\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\rober\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\rober\\.nuget\\packages\\avalonedit\\6.1.3.50\\avalonedit.6.1.3.50.nupkg.sha512",
@@ -144,8 +144,6 @@
     "C:\\Users\\rober\\.nuget\\packages\\runtime.win.system.net.primitives\\4.3.0\\runtime.win.system.net.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\rober\\.nuget\\packages\\runtime.win.system.net.sockets\\4.3.0\\runtime.win.system.net.sockets.4.3.0.nupkg.sha512",
     "C:\\Users\\rober\\.nuget\\packages\\runtime.win.system.runtime.extensions\\4.3.0\\runtime.win.system.runtime.extensions.4.3.0.nupkg.sha512",
-    "C:\\Users\\rober\\.nuget\\packages\\runtime.win7-x64.runtime.native.system.io.compression\\4.3.2\\runtime.win7-x64.runtime.native.system.io.compression.4.3.2.nupkg.sha512",
-    "C:\\Users\\rober\\.nuget\\packages\\runtime.win7.system.private.uri\\4.3.0\\runtime.win7.system.private.uri.4.3.0.nupkg.sha512",
     "C:\\Users\\rober\\.nuget\\packages\\sharpziplib\\1.3.3\\sharpziplib.1.3.3.nupkg.sha512",
     "C:\\Users\\rober\\.nuget\\packages\\sixlabors.fonts\\1.0.0-beta18\\sixlabors.fonts.1.0.0-beta18.nupkg.sha512",
     "C:\\Users\\rober\\.nuget\\packages\\system.activities.viewmodels\\1.0.0-20240418.6\\system.activities.viewmodels.1.0.0-20240418.6.nupkg.sha512",
