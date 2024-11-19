@@ -1,29 +1,24 @@
 {
-  "name": "Lab 3",
-  "projectId": "bdbcf481-c3dc-4281-883d-861c2dde06ba",
-  "description": "Multiple Workflows",
-  "main": "Main.xaml",
+  "name": "Success Messages",
+  "projectId": "cf4ec4f3-26a0-426e-a294-2f7d65e34de1",
+  "description": "",
+  "main": "NewActivity.xaml",
   "dependencies": {
-    "Success.Messages": "[1.0.2]",
-    "UiPath.Excel.Activities": "[2.22.3]",
-    "UiPath.Mail.Activities": "[1.21.1]",
-    "UiPath.MicrosoftOffice365.Activities": "[2.7.22]",
-    "UiPath.System.Activities": "[23.10.5]",
-    "UiPath.Testing.Activities": "[23.10.1]",
-    "UiPath.UIAutomation.Activities": "[23.10.7]",
-    "UiPath.WebAPI.Activities": "[1.21.1]"
+    "UiPath.System.Activities": "23.10.5",
+    "UiPath.Testing.Activities": "23.10.1",
+    "UiPath.UIAutomation.Activities": "23.10.7"
   },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "23.10.4.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.2",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
     "isPausable": true,
     "isAttended": false,
-    "requiresUserInteraction": false,
+    "requiresUserInteraction": true,
     "supportsPersistence": false,
     "workflowSerialization": "DataContract",
     "excludedLoggedData": [
@@ -38,7 +33,7 @@
   },
   "designOptions": {
     "projectProfile": "Developement",
-    "outputType": "Process",
+    "outputType": "Library",
     "libraryOptions": {
       "includeOriginalXaml": false,
       "privateWorkflows": []
@@ -51,14 +46,6 @@
     "saveToCloud": false
   },
   "expressionLanguage": "CSharp",
-  "entryPoints": [
-    {
-      "filePath": "Main.xaml",
-      "uniqueId": "3f5808bc-de4c-4c57-9106-09cf3d2420cf",
-      "input": [],
-      "output": []
-    }
-  ],
   "isTemplate": false,
   "templateProjectData": {},
   "publishData": {},
